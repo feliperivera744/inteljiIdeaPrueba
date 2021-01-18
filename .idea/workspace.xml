@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6ae7e27-ff10-47c0-b919-f40ffdc727f5" name="Default Changelist" comment="" />
+    <list default="true" id="f6ae7e27-ff10-47c0-b919-f40ffdc727f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificaction/academy/userinterface/ChoucairAcademyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificaction/academy/userinterface/ChoucairAcademyPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7c5390886311636b8142bcbb4492d1eb1aa54053a8c5d52c22312ef0647de1b6.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7c5390886311636b8142bcbb4492d1eb1aa54053a8c5d52c22312ef0647de1b6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/7c5390886311636b8142bcbb4492d1eb1aa54053a8c5d52c22312ef0647de1b6.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/7c5390886311636b8142bcbb4492d1eb1aa54053a8c5d52c22312ef0647de1b6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-7c5390886311636b8142bcbb4492d1eb1aa54053a8c5d52c22312ef0647de1b6.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-7c5390886311636b8142bcbb4492d1eb1aa54053a8c5d52c22312ef0647de1b6.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +27,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1nCWSmXeGtlcrMPrmOSN3L5j9pY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/inteljiIdeaPrueba-master/inteljiIdeaPrueba-master" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -85,5 +96,18 @@
       <updated>1610894554625</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
